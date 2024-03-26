@@ -231,13 +231,10 @@ body{
     }
 
     .btn{
-position: absolute;
-bottom: 25px;
-right: 285px;
-    }
+margin-top: 20px;
 
     button{
-        width: 200px;
+        width: 400px;
         height: 50px;
         border-radius: 10px;
         background-color: rgb(147, 84, 188);
